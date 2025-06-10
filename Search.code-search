@@ -1,0 +1,9 @@
+# Query: 
+# ContextLines: 1
+
+<file name=index.js path=src>
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+import './index.css'; // if you have this file
+</file>
